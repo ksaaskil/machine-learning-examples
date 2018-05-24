@@ -8,3 +8,4 @@
   - [h5py](https://www.h5py.org/) is required for saving Keras models
   - [Pillow](https://pillow.readthedocs.io/en/5.0.0/index.html#) is required for image classification examples
 - Open `.ipynb` files in [Jupyter](http://jupyter.org/index.html)
+- Some datasets like [cats-vs-dogs image classification](https://www.kaggle.com/c/dogs-vs-cats/data) require registering at [https://www.kaggle.com/](https://www.kaggle.com/)
