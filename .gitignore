@@ -4,3 +4,5 @@
 logs/
 tf_logs/
 *~
+*.ckpt*
+
