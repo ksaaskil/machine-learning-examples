@@ -3,6 +3,7 @@
 *.h5
 logs/
 tf_logs/
+tf-logs/
 *~
 *.ckpt*
-
+datasets/
