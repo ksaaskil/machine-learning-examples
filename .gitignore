@@ -7,3 +7,4 @@ tf-logs/
 *~
 *.ckpt*
 datasets/
+submission.csv
