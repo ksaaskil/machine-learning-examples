@@ -6,3 +6,8 @@ Uses the [Art Images](https://www.kaggle.com/thedownhill/art-images-drawings-pai
 ```
 make download
 ```
+
+## Example
+![alt text](./input/bear.jpg "Input image")
+![alt text](./results/generated_at_iteration_3.png "Output image")
+
