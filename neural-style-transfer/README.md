@@ -13,7 +13,7 @@ make download
 <img src="./input/bear.jpg" alt="bear" width="400"/>
 
 ### Reference image
-<img src="./reference-images/starry-night.jpg" alt=starry-night" width="400"/>
+<img src="./reference-images/starry-night.jpg" alt="starry-night" width="400"/>
 
 ### Generated image
 <img src="./results/generated_at_iteration_3.png" alt="bear-gen" width="400"/>
