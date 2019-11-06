@@ -8,3 +8,12 @@ tf-logs/
 *.ckpt*
 datasets/
 submission.csv
+.python-version
+neural-style-transfer/results
+_MACOSX/
+.idea
+named-entity-recognition/models/
+*.png
+
+comet-ml/data/
+__MACOSX/
